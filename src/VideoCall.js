@@ -3,8 +3,8 @@ import useAgora from "./Hook";
 import Controls from "./Controls";
 import WebDashboard from "./Dashboard";
 
-const appId = "f1473a90a6c34adc9ef3a3322497f199";
-const token = "007eJxTYCj/zdDJU5Dcf/dmuRrz3vczul4tWeNV5nTCT/X2H0l/y0sKDGmGJubGiZYGiWbJxiaJKcmWqWnGicbGRkYmluZphpaWH66qpzQEMjJILnjDwAiELEAM4jOBSWYwyQIm2RlKUotLMvPSGRgAUjIkSg==";
+const appId = "Agora App Id";
+const token = "Agora Token";
 
 const VideoCall = (props) => {
     const { setInCall, channelName } = props;
